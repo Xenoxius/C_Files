@@ -1,5 +1,6 @@
 #include <iostream>
 //#include keyword imports files...
+//All C++ files end with the '.cpp' file extension.
 
 //Lines with a double slash are single-line comments...
 
@@ -23,7 +24,7 @@ returns int value 0*/
 
 //NOTE: To run your program, you MUST have an int main() function.
 //Otherwise, the program wont run...
-int main() /*This is the function header*/ {
+int main() /*<- This is the function header*/ {
 
     //Anything within the curly braces is the function body.
     //Note: Function and Method, both mean the same thing..
